@@ -45,3 +45,7 @@
 
 1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
 
+# Courses
+
+1. [Website Optimization](http://teamtreehouse.com/library/website-optimization)
+1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
