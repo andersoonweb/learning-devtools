@@ -35,3 +35,9 @@
 
 1. [Introducing Chrome DevTools for Mobile](http://www.sitepoint.com/introducing-chrome-devtools-mobile/)
 1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
+
+# Screencast
+
+1. [Frame Viewer in Chrome DevTools Timeline](https://www.youtube.com/watch?v=sC6IlD-U2TI)
+1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=vcjcykN6smw)
+1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=U9xfYbKxosI)
