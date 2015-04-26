@@ -1,4 +1,4 @@
-
+![DevTools Learning](http://i.imgur.com/PkkoN8y.png)
 **List of resources to learning this amazing**
 
 [DevTools site](https://developer.chrome.com/devtools)
