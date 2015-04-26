@@ -40,4 +40,8 @@
 
 1. [Frame Viewer in Chrome DevTools Timeline](https://www.youtube.com/watch?v=sC6IlD-U2TI)
 1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=vcjcykN6smw)
-1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=U9xfYbKxosI)
+
+# Talks
+
+1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
+
