@@ -1,4 +1,3 @@
-# DevTools-Learning
 
 **List of resources to learning this amazing**
 
@@ -31,3 +30,8 @@
 1. [Reveal DOM nodes in the Elements panel from the Console](https://umaar.com/dev-tips/20-reveal-in-elements/)
 1. [See the exact statement which executed with granular highlighting](https://umaar.com/dev-tips/21-highlight-paused-statement/)
 1. [Some UI and feature enhancements to the Colour Picker tool](https://umaar.com/dev-tips/22-colour-picker-upgrade/)
+
+# Article & Tutorials
+
+1. [Introducing Chrome DevTools for Mobile](http://www.sitepoint.com/introducing-chrome-devtools-mobile/)
+1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
