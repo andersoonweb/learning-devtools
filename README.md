@@ -35,6 +35,8 @@
 
 1. [Introducing Chrome DevTools for Mobile](http://www.sitepoint.com/introducing-chrome-devtools-mobile/)
 1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
+1. [Responsive Web Design with DevTools' Device Mode](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+1. [Chrome DevTools upcoming features](https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5)
 
 # Screencast
 
