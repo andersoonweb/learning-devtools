@@ -61,6 +61,8 @@
 1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=4CZveCrrGS0)
 1. [Chrome Developer Tools for Speed](https://www.youtube.com/watch?v=MllBwuHbWMY)
 1. [Google I/O 2013 - Chrome DevTools Revolutions 2013](https://www.youtube.com/watch?v=x6qe_kVaBpg)
+1. [Advanced Debugging Techniques with Chrome - @Scale 2014 - Web](https://www.youtube.com/watch?v=B63jNjSVEbQ)
+1. [Wait, Chrome Dev Tools could do THAT](https://www.youtube.com/watch?v=BaneWEqNcpE)
 
 # Courses
 
