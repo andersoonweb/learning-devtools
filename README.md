@@ -30,6 +30,7 @@
 1. [Reveal DOM nodes in the Elements panel from the Console](https://umaar.com/dev-tips/20-reveal-in-elements/)
 1. [See the exact statement which executed with granular highlighting](https://umaar.com/dev-tips/21-highlight-paused-statement/)
 1. [Some UI and feature enhancements to the Colour Picker tool](https://umaar.com/dev-tips/22-colour-picker-upgrade/)
+1. [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 
 # Article & Tutorials
 
