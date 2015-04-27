@@ -40,10 +40,21 @@
 
 1. [Frame Viewer in Chrome DevTools Timeline](https://www.youtube.com/watch?v=sC6IlD-U2TI)
 1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=vcjcykN6smw)
+1. [background v background color CSS Performance investigation](https://www.youtube.com/watch?v=wooovVDLUU8)
+1. [Redefining a function as you debug it in Chrome DevTools - LiveEdit recompilation in action](https://www.youtube.com/watch?v=WQZio5DlSXM)
+1. [Answered: Do animated gifs still animate while in a background tab?](https://www.youtube.com/watch?v=3dClqXa9S6Y)
+1. [Devtools experiments](https://www.youtube.com/watch?v=NHPV8EBlz-A)
+1. [Debugging and fixing Canadian Jank](https://www.youtube.com/watch?v=mSK70FwUz2A)
+1. [2D transform's translate() vs absolute positioning: Performance evaluation with Chrome DevTools](https://www.youtube.com/watch?v=NZelrwd_iRs)
+1. [Chrome DevTools - Live Edit CSS, Save to Disk](https://www.youtube.com/watch?v=Qy5obNItQiQ)
+1. [Chrome DevTools - Live Edit CSS, Save to Disk](https://www.youtube.com/watch?v=Qy5obNItQiQ)
+1. [Chrome DevTools Live Edit + Breakpoints](https://www.youtube.com/watch?v=ItMcQyXrWF8)
+1. [Outlined DOM elements in the Chrome Dev Tools](https://www.youtube.com/watch?v=ItMcQyXrWF8)
+1. [Viewing Painting Behavior w/ Chrome DevTools](https://www.youtube.com/watch?v=Ea41RdQ1oFQ)
 
 # Talks
 
-1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=0xx_dkv9DEY)
+1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=4CZveCrrGS0)
 
 # Courses
 
