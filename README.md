@@ -9,6 +9,7 @@
 * [Screencast](#screencast)
 * [Talks](#talks)
 * [Courses](#courses)
+* [Who to follow](#who-to-follow)
 
 # Tutorials in Gifs
 
