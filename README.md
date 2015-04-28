@@ -1,5 +1,5 @@
 ![DevTools Learning](http://i.imgur.com/PkkoN8y.png)
-**List of resources to learning this amazing**
+**List of resources to learning this amazing tools**
 
 [DevTools site](https://developer.chrome.com/devtools)
 
