@@ -74,3 +74,7 @@
 
 1. [Website Optimization](http://teamtreehouse.com/library/website-optimization)
 1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
+
+# Who to follow
+1. [Addy Osmani](https://plus.google.com/+AddyOsmani)
+1. [Ilya Grigorik](https://plus.google.com/+IlyaGrigorik/posts)
