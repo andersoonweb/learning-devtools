@@ -4,7 +4,11 @@
 [DevTools site](https://developer.chrome.com/devtools)
 
 ## Table of Contents
-* [Articles & Tutorials](#articles--tutorials)
+* [Tutorials in Gifs](#tutorials-in-gifs)
+* [Articles & Tutorials](#articles-tutorials)
+* [Screencast](#screencast)
+* [Talks](#talks)
+* [Courses](#courses)
 
 # Tutorials in Gifs
 
@@ -33,7 +37,7 @@
 1. [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 1. [Set a breakpoint and navigate through the call stack with keyboard shortcuts](https://umaar.com/dev-tips/23-debugger-shortcuts/)
 
-# Article & Tutorials
+# Articles & Tutorials
 
 1. [Introducing Chrome DevTools for Mobile](http://www.sitepoint.com/introducing-chrome-devtools-mobile/)
 1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
