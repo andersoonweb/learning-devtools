@@ -38,6 +38,8 @@
 1. [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 1. [Set a breakpoint and navigate through the call stack with keyboard shortcuts](https://umaar.com/dev-tips/23-debugger-shortcuts/)
 
+**[⬆ back to top](#table-of-contents)**
+
 # Articles & Tutorials
 
 1. [Introducing Chrome DevTools for Mobile](http://www.sitepoint.com/introducing-chrome-devtools-mobile/)
@@ -45,6 +47,7 @@
 1. [Responsive Web Design with DevTools' Device Mode](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 1. [Chrome DevTools upcoming features](https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5)
 
+**[⬆ back to top](#table-of-contents)**
 
 # Screencast
 
@@ -63,6 +66,8 @@
 1. [Viewing Painting Behavior w/ Chrome DevTools](https://www.youtube.com/watch?v=Ea41RdQ1oFQ)
 1. [15 tricks to master Chrome Developer Tools Console](https://www.youtube.com/watch?v=2zmUSoVMyRU)
 
+**[⬆ back to top](#table-of-contents)**
+
 # Talks
 
 1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=4CZveCrrGS0)
@@ -71,12 +76,18 @@
 1. [Advanced Debugging Techniques with Chrome - @Scale 2014 - Web](https://www.youtube.com/watch?v=B63jNjSVEbQ)
 1. [Wait, Chrome Dev Tools could do THAT](https://www.youtube.com/watch?v=BaneWEqNcpE)
 
+**[⬆ back to top](#table-of-contents)**
+
 # Courses
 
 1. [Website Optimization](http://teamtreehouse.com/library/website-optimization)
 1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 1. [Mastering the Google Chrome Developer Tools](https://www.udemy.com/mastering-chrome-developer-tools/?couponCode=DISCOUNT)
 
+**[⬆ back to top](#table-of-contents)**
+
 # Who to follow
 1. [Addy Osmani](https://plus.google.com/+AddyOsmani)
 1. [Ilya Grigorik](https://plus.google.com/+IlyaGrigorik/posts)
+
+**[⬆ back to top](#table-of-contents)**
