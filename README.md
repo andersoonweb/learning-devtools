@@ -3,7 +3,7 @@
 
 [DevTools site](https://developer.chrome.com/devtools)
 
-## Table of Contents
+# Table of Contents
 * [Tutorials in Gifs](#tutorials-in-gifs)
 * [Articles & Tutorials](#articles-tutorials)
 * [Screencast](#screencast)
