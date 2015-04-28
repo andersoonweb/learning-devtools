@@ -31,6 +31,7 @@
 1. [See the exact statement which executed with granular highlighting](https://umaar.com/dev-tips/21-highlight-paused-statement/)
 1. [Some UI and feature enhancements to the Colour Picker tool](https://umaar.com/dev-tips/22-colour-picker-upgrade/)
 1. [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
+1. [Set a breakpoint and navigate through the call stack with keyboard shortcuts](https://umaar.com/dev-tips/23-debugger-shortcuts/)
 
 # Article & Tutorials
 
@@ -38,6 +39,7 @@
 1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
 1. [Responsive Web Design with DevTools' Device Mode](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 1. [Chrome DevTools upcoming features](https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5)
+
 
 # Screencast
 
