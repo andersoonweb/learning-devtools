@@ -46,6 +46,9 @@
 1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
 1. [Responsive Web Design with DevTools' Device Mode](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 1. [Chrome DevTools upcoming features](https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5)
+1. [Chrome 41 Beta: New ES6 Features and Improved DevTools for Service Workers and Web Animations](http://blog.chromium.org/2015/01/chrome-41-beta-new-es6-features-and.html)
+1. [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements)
+
 
 **[⬆ back to top](#table-of-contents)**
 
