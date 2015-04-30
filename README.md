@@ -86,8 +86,15 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+# Extension
+
+1. [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
+
+**[⬆ back to top](#table-of-contents)**
+
 # Who to follow
 1. [Addy Osmani](https://plus.google.com/+AddyOsmani)
 1. [Ilya Grigorik](https://plus.google.com/+IlyaGrigorik/posts)
+1. [ChromeDevTools](https://twitter.com/ChromeDevTools)
 
 **[⬆ back to top](#table-of-contents)**
