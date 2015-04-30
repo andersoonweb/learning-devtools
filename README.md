@@ -65,6 +65,7 @@
 1. [Outlined DOM elements in the Chrome Dev Tools](https://www.youtube.com/watch?v=ItMcQyXrWF8)
 1. [Viewing Painting Behavior w/ Chrome DevTools](https://www.youtube.com/watch?v=Ea41RdQ1oFQ)
 1. [15 tricks to master Chrome Developer Tools Console](https://www.youtube.com/watch?v=2zmUSoVMyRU)
+1. [DevTools State of the Union](http://jqueryuk.com/2015/videos.php?s=devtools-state-of-the-union)
 
 **[⬆ back to top](#table-of-contents)**
 
