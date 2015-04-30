@@ -99,6 +99,9 @@
 # Who to follow
 1. [Addy Osmani](https://plus.google.com/+AddyOsmani)
 1. [Ilya Grigorik](https://plus.google.com/+IlyaGrigorik/posts)
+1. [Paul Irish](https://twitter.com/paul_irish)
+1. [Paul Bakaus](https://twitter.com/pbakaus)
+1. [Umar Hansa](https://twitter.com/umaar)
 1. [ChromeDevTools](https://twitter.com/ChromeDevTools)
 
 **[⬆ back to top](#table-of-contents)**
