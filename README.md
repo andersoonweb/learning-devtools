@@ -68,7 +68,7 @@
 1. [Outlined DOM elements in the Chrome Dev Tools](https://www.youtube.com/watch?v=ItMcQyXrWF8)
 1. [Viewing Painting Behavior w/ Chrome DevTools](https://www.youtube.com/watch?v=Ea41RdQ1oFQ)
 1. [15 tricks to master Chrome Developer Tools Console](https://www.youtube.com/watch?v=2zmUSoVMyRU)
-1. [DevTools State of the Union](http://jqueryuk.com/2015/videos.php?s=devtools-state-of-the-union)
+1. [Chrome DevTools for CSS - Better CSS Coding & CSS Debugging with Developer Tools](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -79,6 +79,8 @@
 1. [Google I/O 2013 - Chrome DevTools Revolutions 2013](https://www.youtube.com/watch?v=x6qe_kVaBpg)
 1. [Advanced Debugging Techniques with Chrome - @Scale 2014 - Web](https://www.youtube.com/watch?v=B63jNjSVEbQ)
 1. [Wait, Chrome Dev Tools could do THAT](https://www.youtube.com/watch?v=BaneWEqNcpE)
+1. [DevTools State of the Union](http://jqueryuk.com/2015/videos.php?s=devtools-state-of-the-union)
+	- [[Slide] DevTools: State Of The Union 2015](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015)
 
 **[⬆ back to top](#table-of-contents)**
 
