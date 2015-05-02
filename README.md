@@ -49,6 +49,7 @@
 1. [Chrome 41 Beta: New ES6 Features and Improved DevTools for Service Workers and Web Animations](http://blog.chromium.org/2015/01/chrome-41-beta-new-es6-features-and.html)
 1. [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements)
 1. [DevTools answers: What font is that?](http://updates.html5rocks.com/2013/09/DevTools-answers-What-font-is-that)
+1. [Using Chrome DevTools to Debug JavaScript in Any Browser with Ghostlab 2](https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/)
 
 
 **[⬆ back to top](#table-of-contents)**
