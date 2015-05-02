@@ -101,11 +101,7 @@
 **[⬆ back to top](#table-of-contents)**
 
 # Who to follow
-1. [Addy Osmani](https://plus.google.com/+AddyOsmani)
-1. [Ilya Grigorik](https://plus.google.com/+IlyaGrigorik/posts)
-1. [Paul Irish](https://twitter.com/paul_irish)
-1. [Paul Bakaus](https://twitter.com/pbakaus)
-1. [Umar Hansa](https://twitter.com/umaar)
-1. [ChromeDevTools](https://twitter.com/ChromeDevTools)
-
+[![Ilya Grigorik](http://0.gravatar.com/avatar/05ae1db9066ec5dbfe48f3a5e62d4586)](https://twitter.com/igrigorik) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Paul Irish](http://0.gravatar.com/avatar/ffe68d6f71b225f7661d33f2a8908281)](https://twitter.com/https://twitter.com/paul_irish) | [![Paul Bakaus](http://1.gravatar.com/avatar/9fb120a88c85d93be416ed62b8ab5e16)](https://twitter.com/pbakaus) | [![Umar Hansa](http://i.imgur.com/JxsCLg3.png)](https://twitter.com/umaar) | [![ChromeDevTools](http://i.imgur.com/kR67vbR.png)](https://twitter.com/ChromeDevTools)
+--- | --- | --- | --- | ---
+[Ilya Grigorik](https://twitter.com/igrigorik) | [Addy Osmani](https://twitter.com/addyosmani) | [Paul Irish](https://twitter.com/https://twitter.com/paul_irish) | [Paul Bakaus](https://twitter.com/pbakaus) | [Umar Hansa](https://twitter.com/umaar) | [ChromeDevTools](https://twitter.com/ChromeDevTools)
 **[⬆ back to top](#table-of-contents)**
