@@ -38,6 +38,8 @@
 1. [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 1. [Set a breakpoint and navigate through the call stack with keyboard shortcuts](https://umaar.com/dev-tips/23-debugger-shortcuts/)
 1. [Select an easing to get a visual animated preview for how it behaves](https://umaar.com/dev-tips/27-easing-preview/)
+1. [5 tricks to use in the Console Panel](https://umaar.com/dev-tips/29-five-console-tricks/)
+1. [DevTools Tip: View and change your DOM breakpoints with the breakpoints pane](https://umaar.com/dev-tips/28-dom-breakpoint-pane/)
 
 **[⬆ back to top](#table-of-contents)**
 
