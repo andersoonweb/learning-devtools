@@ -53,7 +53,9 @@
 1. [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements)
 1. [DevTools answers: What font is that?](http://updates.html5rocks.com/2013/09/DevTools-answers-What-font-is-that)
 1. [Using Chrome DevTools to Debug JavaScript in Any Browser with Ghostlab 2](https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/)
-1. [Using Your Terminal From The DevTools](Using Your Terminal From The DevToolshttp://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/#disqus_thread)
+1. [Using Your Terminal From The DevTools](Using Your Terminal From The DevToolshttp://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/)
+1. [Chrome DevTools November Digest](http://www.html5rocks.com/en/tutorials/developertools/novdigest/)
+1. [Chrome DevTools Revolutions 2013](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/)
 
 
 **[⬆ back to top](#table-of-contents)**
