@@ -54,9 +54,16 @@
 1. [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements)
 1. [DevTools answers: What font is that?](http://updates.html5rocks.com/2013/09/DevTools-answers-What-font-is-that)
 1. [Using Chrome DevTools to Debug JavaScript in Any Browser with Ghostlab 2](https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/)
-1. [Using Your Terminal From The DevTools](Using Your Terminal From The DevToolshttp://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/)
+1. [Using Your Terminal From The DevTools](http://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/)
 1. [Chrome DevTools November Digest](http://www.html5rocks.com/en/tutorials/developertools/novdigest/)
 1. [Chrome DevTools Revolutions 2013](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/)
+1. [DevTools Digest - Chrome 35](http://www.html5rocks.com/en/tutorials/developertools/chrome-35/)
+1. [DevTools Digest](http://www.html5rocks.com/en/tutorials/developertools/chrome-33/)
+1. [Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
+1. [Canvas Inspection using Chrome DevTools](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
+1. [Profiling Long Paint Times with DevTools' Continuous Painting Mode](http://updates.html5rocks.com/2013/02/Profiling-Long-Paint-Times-with-DevTools-Continuous-Painting-Mode)
+1. [Auditing Your Web App For Speed](http://www.html5rocks.com/en/tutorials/developertools/auditpanel/)
+1. [Accelerated Rendering in Chrome](http://www.html5rocks.com/en/tutorials/speed/layers/)
 
 
 **[⬆ back to top](#table-of-contents)**
