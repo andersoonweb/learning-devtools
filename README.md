@@ -109,6 +109,7 @@
 1. [Website Optimization](http://teamtreehouse.com/library/website-optimization)
 1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 1. [Mastering the Google Chrome Developer Tools](https://www.udemy.com/mastering-chrome-developer-tools/?couponCode=DISCOUNT)
+1. [Chrome Developer Tools](http://code.tutsplus.com/courses/chrome-developer-tools)
 
 **[⬆ back to top](#table-of-contents)**
 
