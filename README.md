@@ -64,6 +64,10 @@
 1. [Profiling Long Paint Times with DevTools' Continuous Painting Mode](http://updates.html5rocks.com/2013/02/Profiling-Long-Paint-Times-with-DevTools-Continuous-Painting-Mode)
 1. [Auditing Your Web App For Speed](http://www.html5rocks.com/en/tutorials/developertools/auditpanel/)
 1. [Accelerated Rendering in Chrome](http://www.html5rocks.com/en/tutorials/speed/layers/)
+1. [Profiling Mobile HTML5 Apps With Chrome DevTools](http://www.html5rocks.com/en/mobile/profiling/)
+1. [Taking Chrome DevTools outside of the browser.](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
+1. []()
+1. []()
 
 
 **[⬆ back to top](#table-of-contents)**
