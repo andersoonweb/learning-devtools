@@ -41,6 +41,10 @@
 1. [Select an easing to get a visual animated preview for how it behaves](https://umaar.com/dev-tips/27-easing-preview/)
 1. [5 tricks to use in the Console Panel](https://umaar.com/dev-tips/29-five-console-tricks/)
 1. [DevTools Tip: View and change your DOM breakpoints with the breakpoints pane](https://umaar.com/dev-tips/28-dom-breakpoint-pane/)
+1. [DevTools Tip: Get and debug event listeners with Console commands ](https://umaar.com/dev-tips/31-get-debug-event-listeners/)
+1. [DevTools Tip: Automatically pause on uncaught exceptions ](https://umaar.com/dev-tips/32-pause-on-exception/)
+1. []()
+1. []()
 
 **[⬆ back to top](#table-of-contents)**
 
