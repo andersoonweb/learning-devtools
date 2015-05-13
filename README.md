@@ -43,8 +43,8 @@
 1. [DevTools Tip: View and change your DOM breakpoints with the breakpoints pane](https://umaar.com/dev-tips/28-dom-breakpoint-pane/)
 1. [DevTools Tip: Get and debug event listeners with Console commands ](https://umaar.com/dev-tips/31-get-debug-event-listeners/)
 1. [DevTools Tip: Automatically pause on uncaught exceptions ](https://umaar.com/dev-tips/32-pause-on-exception/)
-1. []()
-1. []()
+1. [DevTools Tip: Expand shorthand properties](https://umaar.com/dev-tips/33-expand-shorthand-properties)
+1. [DevTools Tip: See matching selectors](https://umaar.com/dev-tips/34-selector-matching/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -70,6 +70,21 @@
 1. [Accelerated Rendering in Chrome](http://www.html5rocks.com/en/tutorials/speed/layers/)
 1. [Profiling Mobile HTML5 Apps With Chrome DevTools](http://www.html5rocks.com/en/mobile/profiling/)
 1. [Taking Chrome DevTools outside of the browser.](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/)
+1. [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+1. [Authoring & development workflow](https://developer.chrome.com/devtools/docs/authoring-development-workflow)
+1. [Using the Console](https://developer.chrome.com/devtools/docs/console)
+1. [Tips And Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks)
+1. [Editing Styles And The DOM Introduction](https://developer.chrome.com/devtools/docs/dom-and-styles)
+1. [Debugging JavaScript](https://developer.chrome.com/devtools/docs/javascript-debugging)
+1. [Device Mode & Mobile Emulation](https://developer.chrome.com/devtools/docs/device-mode)
+1. [Remote Debugging on Android with Chrome](https://developer.chrome.com/devtools/docs/remote-debugging)
+1. [Workspaces - Persistent authoring in the DevTools](https://developer.chrome.com/devtools/docs/workspaces)
+1. [Evaluating network performance](https://developer.chrome.com/devtools/docs/network)
+1. [Performance profiling with the Timeline](https://developer.chrome.com/devtools/docs/timeline)
+1. [Timeline demo: Diagnosing forced synchronous layouts](https://developer.chrome.com/devtools/docs/demos/too-much-layout/index)
+1. [Timeline demo: Diagnosing forced synchronous layouts](https://developer.chrome.com/devtools/docs/demos/too-much-layout/index)
+1. [Profiling JavaScript Performance](https://developer.chrome.com/devtools/docs/cpu-profiling)
+1. [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
 1. []()
 1. []()
 
