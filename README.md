@@ -45,7 +45,8 @@
 1. [DevTools Tip: Automatically pause on uncaught exceptions ](https://umaar.com/dev-tips/32-pause-on-exception/)
 1. [DevTools Tip: Expand shorthand properties](https://umaar.com/dev-tips/33-expand-shorthand-properties)
 1. [DevTools Tip: See matching selectors](https://umaar.com/dev-tips/34-selector-matching/)
-
+1. [DevTools Tip: The new Network Filmstrip and timeline](https://umaar.com/dev-tips/35-network-filmstrip/)
+							
 **[⬆ back to top](#table-of-contents)**
 
 # Articles & Tutorials
@@ -85,8 +86,15 @@
 1. [Timeline demo: Diagnosing forced synchronous layouts](https://developer.chrome.com/devtools/docs/demos/too-much-layout/index)
 1. [Profiling JavaScript Performance](https://developer.chrome.com/devtools/docs/cpu-profiling)
 1. [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
-1. []()
-1. []()
+1. [Remote debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
+1. [Settings](https://developer.chrome.com/devtools/docs/settings)
+1. [Keyboard Shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
+1. [Extending DevTools](https://developer.chrome.com/extensions/devtools)
+1. [Integrating with DevTools](https://developer.chrome.com/devtools/docs/integrating)
+1.  [Command Line API Reference](https://developer.chrome.com/devtools/docs/commandline-api)
+1.  [Console API Reference](https://developer.chrome.com/devtools/docs/console-api)
+1. [Advanced Performance Audits With DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
+1.  []()
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -108,6 +116,15 @@
 1. [Viewing Painting Behavior w/ Chrome DevTools](https://www.youtube.com/watch?v=Ea41RdQ1oFQ)
 1. [15 tricks to master Chrome Developer Tools Console](https://www.youtube.com/watch?v=2zmUSoVMyRU)
 1. [Chrome DevTools for CSS - Better CSS Coding & CSS Debugging with Developer Tools](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
+1. [The Breakpoint](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Breakpoint Ep. 1: Chrome DevTools with Addy Osmani and Paul Lewis](https://www.youtube.com/watch?v=ktwJ-EDiZoU&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=8)
+ - [The Breakpoint Ep. 2: Chrome DevTools with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=PPXeWjWp-8Y&index=7&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Breakpoint Ep 3: The Sourcemap Spectacular with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=HijZNR6kc9A&index=6&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Breakpoint Ep. 4 The Tour De Timeline](https://www.youtube.com/watch?v=WpqZ0LjNU5A&index=5&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [Breakpoint Episode 5: DevTools Grab bag](https://www.youtube.com/watch?v=FdsummsTeLo&index=4&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Breakpoint Ep. 6: Accelerating Load Time, Run Time, and JS tooling](https://www.youtube.com/watch?v=E8qvkGTwiV0&index=3&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Breakpoint Ep. 7: Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
+ - [The Breakpoint Ep. 8: Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -125,6 +142,7 @@
 1. [Improving Your 2013 Productivity With The Chrome DevTools](https://www.youtube.com/watch?v=kVSo4buDAEE)
 1. [Optimizing network performance - Chrome Dev Summit 2013](https://www.youtube.com/watch?v=eJZ8SdU9zII)
 1. []
+
 **[⬆ back to top](#table-of-contents)**
 
 # Courses
@@ -139,11 +157,14 @@
 # Extension
 
 1. [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
+1. [WebGL Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob)
+1. [Web Audio API Editor Extension for Google Chrome](https://github.com/spite/WebAudioExtension)
+1. [Yez - Chrome extension that acts as terminal and task runner](https://github.com/krasimir/yez)
 
 **[⬆ back to top](#table-of-contents)**
 
 # Who to follow
-[![Ilya Grigorik](http://0.gravatar.com/avatar/05ae1db9066ec5dbfe48f3a5e62d4586)](https://twitter.com/igrigorik) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Paul Irish](http://0.gravatar.com/avatar/ffe68d6f71b225f7661d33f2a8908281)](https://twitter.com/https://twitter.com/paul_irish) | [![Paul Bakaus](http://1.gravatar.com/avatar/9fb120a88c85d93be416ed62b8ab5e16)](https://twitter.com/pbakaus) | [![Umar Hansa](http://i.imgur.com/JxsCLg3.png)](https://twitter.com/umaar) | [![ChromeDevTools](http://i.imgur.com/kR67vbR.png)](https://twitter.com/ChromeDevTools)
+[![Ilya Grigorik](http://0.gravatar.com/avatar/05ae1db9066ec5dbfe48f3a5e62d4586)](https://twitter.com/igrigorik) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Paul Irish](http://0.gravatar.com/avatar/ffe68d6f71b225f7661d33f2a8908281)](https://twitter.com/https://twitter.com/paul_irish) | [![Paul Bakaus](http://1.gravatar.com/avatar/9fb120a88c85d93be416ed62b8ab5e16)](https://twitter.com/pbakaus) | [![Umar Hansa](http://i.imgur.com/JxsCLg3.png)](https://twitter.com/umaar) | [![ChromeDevTools](http://i.imgur.com/kR67vbR.png)](https://twitter.com/ChromeDevTools)   
 --- | --- | --- | --- | --- | ---
-[Ilya Grigorik](https://twitter.com/igrigorik) | [Addy Osmani](https://twitter.com/addyosmani) | [Paul Irish](https://twitter.com/https://twitter.com/paul_irish) | [Paul Bakaus](https://twitter.com/pbakaus) | [Umar Hansa](https://twitter.com/umaar) | [ChromeDevTools](https://twitter.com/ChromeDevTools)
+[Ilya Grigorik](https://twitter.com/igrigorik) | [Addy Osmani](https://twitter.com/addyosmani) | [Paul Irish](https://twitter.com/https://twitter.com/paul_irish) | [Paul Bakaus](https://twitter.com/pbakaus) | [Umar Hansa](https://twitter.com/umaar) | [ChromeDevTools](https://twitter.com/ChromeDevTools) 
 **[⬆ back to top](#table-of-contents)**
