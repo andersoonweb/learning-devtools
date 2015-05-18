@@ -46,6 +46,7 @@
 1. [DevTools Tip: Expand shorthand properties](https://umaar.com/dev-tips/33-expand-shorthand-properties)
 1. [DevTools Tip: See matching selectors](https://umaar.com/dev-tips/34-selector-matching/)
 1. [DevTools Tip: The new Network Filmstrip and timeline](https://umaar.com/dev-tips/35-network-filmstrip/)
+1. [Sublime Text: Fuzzy search](https://umaar.com/dev-tips/36-sublime-fuzzy-search/)
 							
 **[⬆ back to top](#table-of-contents)**
 
@@ -160,6 +161,8 @@
 1. [WebGL Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob)
 1. [Web Audio API Editor Extension for Google Chrome](https://github.com/spite/WebAudioExtension)
 1. [Yez - Chrome extension that acts as terminal and task runner](https://github.com/krasimir/yez)
+1. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+1. [Grunt Devtools](https://chrome.google.com/webstore/detail/grunt-devtools/fbiodiodggnlakggeeckkjccjhhjndnb)
 
 **[⬆ back to top](#table-of-contents)**
 
