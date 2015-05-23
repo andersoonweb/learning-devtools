@@ -47,6 +47,10 @@
 1. [DevTools Tip: See matching selectors](https://umaar.com/dev-tips/34-selector-matching/)
 1. [DevTools Tip: The new Network Filmstrip and timeline](https://umaar.com/dev-tips/35-network-filmstrip/)
 1. [Sublime Text: Fuzzy search](https://umaar.com/dev-tips/36-sublime-fuzzy-search/)
+1. [DevTools Tip: Quickly change CSS values (keyboard or mousewheel)](https://umaar.com/dev-tips/37-quick-change-css-values/)
+1. [DevTools Tip: Scroll elements into the viewport](https://umaar.com/dev-tips/38-scroll-into-view/)
+1. [Node: Try out JavaScript ES6 locally](https://umaar.com/dev-tips/39-node-es6-transpile)
+1. [DevTools Tip: View/edit resources from the Elements panel into the Sources Panel](https://umaar.com/dev-tips/40-open-in-sources-from-elements/)
 							
 **[⬆ back to top](#table-of-contents)**
 
@@ -95,7 +99,10 @@
 1.  [Command Line API Reference](https://developer.chrome.com/devtools/docs/commandline-api)
 1.  [Console API Reference](https://developer.chrome.com/devtools/docs/console-api)
 1. [Advanced Performance Audits With DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
-1.  []()
+1.  [Working With LESS and the Chrome DevTools](https://code.tutsplus.com/tutorials/working-with-less-and-the-chrome-devtools--net-36636)
+1. [Chrome DevTools Features You May Have Missed](https://code.tutsplus.com/tutorials/chrome-devtools-features-you-may-have-missed--cms-20850)
+1. [Developing With Sass and Chrome DevTools](https://code.tutsplus.com/tutorials/developing-with-sass-and-chrome-devtools--net-32805)
+1. [Chrome Dev Tools: JavaScript and Performance](https://code.tutsplus.com/tutorials/chrome-dev-tools-javascript-and-performance--net-29671)
 
 
 **[⬆ back to top](#table-of-contents)**
