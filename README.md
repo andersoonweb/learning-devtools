@@ -134,6 +134,11 @@
  - [The Breakpoint Ep. 7: Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
  - [The Breakpoint Ep. 8: Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
 1. [Segredos do Chrome DevTools (Portuguese)](https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d)
+ - [Segredos do Chrome DevTools - Ep. 1: Elements (Portuguese)](https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d&index=1)
+ - [Segredos do Chrome DevTools - Ep. 2: Style (Portuguese)](https://www.youtube.com/watch?v=Lzbed3jiU5E&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d&index=2)
+ - [Segredos do Chrome DevTools - Ep. 3: Workspaces (Portuguese)](https://www.youtube.com/watch?v=zpEs6fLnwO0&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d&index=3)
+ - [Segredos do Chrome DevTools - Ep. 4: Console (Portuguese)](https://www.youtube.com/watch?v=eSPMRDcq9Co&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d&index=4)
+ - [Segredos do Chrome DevTools - Ep. 5: Debug (Portuguese)](https://www.youtube.com/watch?v=b_rvFrBwMRM&list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d&index=5)
 
 
 **[⬆ back to top](#table-of-contents)**
