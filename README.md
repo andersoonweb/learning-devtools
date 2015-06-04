@@ -133,6 +133,7 @@
  - [The Breakpoint Ep. 6: Accelerating Load Time, Run Time, and JS tooling](https://www.youtube.com/watch?v=E8qvkGTwiV0&index=3&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
  - [The Breakpoint Ep. 7: Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
  - [The Breakpoint Ep. 8: Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ 1. [Totally Tooling Tips: Debugging Promises with DevTools](https://www.youtube.com/watch?v=o9c3U5_8tGY&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 
 **[⬆ back to top](#table-of-contents)**
 
