@@ -125,15 +125,19 @@
 1. [15 tricks to master Chrome Developer Tools Console](https://www.youtube.com/watch?v=2zmUSoVMyRU)
 1. [Chrome DevTools for CSS - Better CSS Coding & CSS Debugging with Developer Tools](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 1. [The Breakpoint](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Breakpoint Ep. 1: Chrome DevTools with Addy Osmani and Paul Lewis](https://www.youtube.com/watch?v=ktwJ-EDiZoU&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=8)
- - [The Breakpoint Ep. 2: Chrome DevTools with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=PPXeWjWp-8Y&index=7&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Breakpoint Ep 3: The Sourcemap Spectacular with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=HijZNR6kc9A&index=6&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Breakpoint Ep. 4 The Tour De Timeline](https://www.youtube.com/watch?v=WpqZ0LjNU5A&index=5&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [Breakpoint Episode 5: DevTools Grab bag](https://www.youtube.com/watch?v=FdsummsTeLo&index=4&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Breakpoint Ep. 6: Accelerating Load Time, Run Time, and JS tooling](https://www.youtube.com/watch?v=E8qvkGTwiV0&index=3&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Breakpoint Ep. 7: Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
- - [The Breakpoint Ep. 8: Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- 1. [Totally Tooling Tips: Debugging Promises with DevTools](https://www.youtube.com/watch?v=o9c3U5_8tGY&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+ - [Chrome DevTools with Addy Osmani and Paul Lewis](https://www.youtube.com/watch?v=ktwJ-EDiZoU&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=8)
+ - [Chrome DevTools with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=PPXeWjWp-8Y&index=7&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Sourcemap Spectacular with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=HijZNR6kc9A&index=6&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [The Tour De Timeline](https://www.youtube.com/watch?v=WpqZ0LjNU5A&index=5&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [DevTools Grab bag](https://www.youtube.com/watch?v=FdsummsTeLo&index=4&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [Accelerating Load Time, Run Time, and JS tooling](https://www.youtube.com/watch?v=E8qvkGTwiV0&index=3&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+ - [Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
+ - [Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+
+1. [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+ - [Debugging Promises with DevTools](https://www.youtube.com/watch?v=o9c3U5_8tGY&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+ - [DevTools Grab Bag of Tricks](https://www.youtube.com/watch?v=hJdqtBeAUNI)
+ - [DevTools Eye Dropper Tool](https://www.youtube.com/watch?v=NUlztWHP9eE)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -150,7 +154,7 @@
 1. [Wait, Chrome DevTools can do THAT? (JQueryUK 2013)](https://www.youtube.com/watch?v=S9sktFzL3tQ)
 1. [Improving Your 2013 Productivity With The Chrome DevTools](https://www.youtube.com/watch?v=kVSo4buDAEE)
 1. [Optimizing network performance - Chrome Dev Summit 2013](https://www.youtube.com/watch?v=eJZ8SdU9zII)
-1. []
+1. []()
 
 **[⬆ back to top](#table-of-contents)**
 
