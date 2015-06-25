@@ -51,7 +51,8 @@
 1. [DevTools Tip: Scroll elements into the viewport](https://umaar.com/dev-tips/38-scroll-into-view/)
 1. [Node: Try out JavaScript ES6 locally](https://umaar.com/dev-tips/39-node-es6-transpile)
 1. [DevTools Tip: View/edit resources from the Elements panel into the Sources Panel](https://umaar.com/dev-tips/40-open-in-sources-from-elements/)
-							
+1. [A collection of tutorials in Gif](http://devtoolstips.com/)							
+
 **[⬆ back to top](#table-of-contents)**
 
 # Articles & Tutorials
@@ -103,7 +104,7 @@
 1. [Chrome DevTools Features You May Have Missed](https://code.tutsplus.com/tutorials/chrome-devtools-features-you-may-have-missed--cms-20850)
 1. [Developing With Sass and Chrome DevTools](https://code.tutsplus.com/tutorials/developing-with-sass-and-chrome-devtools--net-32805)
 1. [Chrome Dev Tools: JavaScript and Performance](https://code.tutsplus.com/tutorials/chrome-dev-tools-javascript-and-performance--net-29671)
-
+1. [ [PT-BR] Os Segredos do Chrome DevTools](http://tableless.com.br/os-segredos-chrome-devtools/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -178,8 +179,9 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+
 # Who to follow
-[![Ilya Grigorik](http://0.gravatar.com/avatar/05ae1db9066ec5dbfe48f3a5e62d4586)](https://twitter.com/igrigorik) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Paul Irish](http://0.gravatar.com/avatar/ffe68d6f71b225f7661d33f2a8908281)](https://twitter.com/https://twitter.com/paul_irish) | [![Paul Bakaus](http://1.gravatar.com/avatar/9fb120a88c85d93be416ed62b8ab5e16)](https://twitter.com/pbakaus) | [![Umar Hansa](http://i.imgur.com/JxsCLg3.png)](https://twitter.com/umaar) | [![ChromeDevTools](http://i.imgur.com/kR67vbR.png)](https://twitter.com/ChromeDevTools)   
+[![Ilya Grigorik](http://0.gravatar.com/avatar/05ae1db9066ec5dbfe48f3a5e62d4586)](https://twitter.com/igrigorik) | [![Addy Osmani](https://2.gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275)](https://twitter.com/addyosmani) | [![Paul Irish](http://0.gravatar.com/avatar/ffe68d6f71b225f7661d33f2a8908281)](https://twitter.com/paul_irish) | [![Paul Bakaus](http://1.gravatar.com/avatar/9fb120a88c85d93be416ed62b8ab5e16)](https://twitter.com/pbakaus) | [![Umar Hansa](http://i.imgur.com/JxsCLg3.png)](https://twitter.com/umaar) | [![ChromeDevTools](http://i.imgur.com/kR67vbR.png)](https://twitter.com/ChromeDevTools)| [![ChromeDevTools](http://i.imgur.com/kR67vbR.png)](https://twitter.com/devtoolstips)      
 --- | --- | --- | --- | --- | ---
-[Ilya Grigorik](https://twitter.com/igrigorik) | [Addy Osmani](https://twitter.com/addyosmani) | [Paul Irish](https://twitter.com/https://twitter.com/paul_irish) | [Paul Bakaus](https://twitter.com/pbakaus) | [Umar Hansa](https://twitter.com/umaar) | [ChromeDevTools](https://twitter.com/ChromeDevTools) 
+[Ilya Grigorik](https://twitter.com/igrigorik) | [Addy Osmani](https://twitter.com/addyosmani) | [Paul Irish](https://twitter.com/paul_irish) | [Paul Bakaus](https://twitter.com/pbakaus) | [Umar Hansa](https://twitter.com/umaar) | [ChromeDevTools](https://twitter.com/ChromeDevTools) | [DevTools Tips](https://twitter.com/devtoolstips) 
 **[⬆ back to top](#table-of-contents)**
