@@ -140,8 +140,16 @@
  - [DevTools Grab Bag of Tricks](https://www.youtube.com/watch?v=hJdqtBeAUNI)
  - [DevTools Eye Dropper Tool](https://www.youtube.com/watch?v=NUlztWHP9eE)
 
-**[⬆ back to top](#table-of-contents)**
+1. [Using Chrome Developer Tools](https://www.youtube.com/playlist?list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
+ 
+ - [Using Chrome Developer Tools: Elements (1/6)](https://www.youtube.com/watch?v=nV9PLPFTnkE)
+ - [Using Chrome Developer Tools: Network (2/6)](https://www.youtube.com/watch?v=PwoT18tp6Hs)
+ - [Using Chrome Developer Tools: Resources (3/6)](https://www.youtube.com/watch?v=elnTdCGjmSI)
+ - [Using Chrome Developer Tools: Console (4/6)](https://www.youtube.com/watch?v=G74ll-6L4_o)
+ - [Using Chrome Developer Tools: Device Emulation (5/6)](https://www.youtube.com/watch?v=P_HUmV4pN-0)
+ - [Using Chrome Developer Tools: Auditing (6/6)](https://www.youtube.com/watch?v=A1ER52qpvp8)
 
+**[⬆ back to top](#table-of-contents)**
 # Talks
 
 1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=4CZveCrrGS0)
