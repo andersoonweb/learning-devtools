@@ -134,20 +134,17 @@
  - [Accelerating Load Time, Run Time, and JS tooling](https://www.youtube.com/watch?v=E8qvkGTwiV0&index=3&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
  - [Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
  - [Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
-
 1. [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
  - [Debugging Promises with DevTools](https://www.youtube.com/watch?v=o9c3U5_8tGY&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
  - [DevTools Grab Bag of Tricks](https://www.youtube.com/watch?v=hJdqtBeAUNI)
  - [DevTools Eye Dropper Tool](https://www.youtube.com/watch?v=NUlztWHP9eE)
-
 1. [Using Chrome Developer Tools](https://www.youtube.com/playlist?list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
- 
- - [Using Chrome Developer Tools: Elements (1/6)](https://www.youtube.com/watch?v=nV9PLPFTnkE)
- - [Using Chrome Developer Tools: Network (2/6)](https://www.youtube.com/watch?v=PwoT18tp6Hs)
- - [Using Chrome Developer Tools: Resources (3/6)](https://www.youtube.com/watch?v=elnTdCGjmSI)
- - [Using Chrome Developer Tools: Console (4/6)](https://www.youtube.com/watch?v=G74ll-6L4_o)
- - [Using Chrome Developer Tools: Device Emulation (5/6)](https://www.youtube.com/watch?v=P_HUmV4pN-0)
- - [Using Chrome Developer Tools: Auditing (6/6)](https://www.youtube.com/watch?v=A1ER52qpvp8)
+	- [Using Chrome Developer Tools: Elements (1/6)](https://www.youtube.com/watch?v=nV9PLPFTnkE)
+	- [Using Chrome Developer Tools: Network (2/6)](https://www.youtube.com/watch?v=PwoT18tp6Hs)
+	- [Using Chrome Developer Tools: Resources (3/6)](https://www.youtube.com/watch?v=elnTdCGjmSI)
+	- [Using Chrome Developer Tools: Console (4/6)](https://www.youtube.com/watch?v=G74ll-6L4_o)
+	- [Using Chrome Developer Tools: Device Emulation (5/6)](https://www.youtube.com/watch?v=P_HUmV4pN-0)
+	- [Using Chrome Developer Tools: Auditing (6/6)](https://www.youtube.com/watch?v=A1ER52qpvp8)
 
 **[⬆ back to top](#table-of-contents)**
 # Talks
