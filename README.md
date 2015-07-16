@@ -145,7 +145,18 @@
 	- [Using Chrome Developer Tools: Console (4/6)](https://www.youtube.com/watch?v=G74ll-6L4_o)
 	- [Using Chrome Developer Tools: Device Emulation (5/6)](https://www.youtube.com/watch?v=P_HUmV4pN-0)
 	- [Using Chrome Developer Tools: Auditing (6/6)](https://www.youtube.com/watch?v=A1ER52qpvp8)
-
+1. [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+	- [Segredos do Chrome DevTools - Ep. 1: Elements (Portuguese)](https://www.youtube.com/watch?v=XUgfwYzv-WQ)
+	- [Segredos do Chrome DevTools - Ep. 2: Style (Portuguese)](https://www.youtube.com/watch?v=Lzbed3jiU5E)
+	- [Segredos do Chrome DevTools - Ep. 3: Workspaces (Portuguese)](https://www.youtube.com/watch?v=zpEs6fLnwO0)
+	- [Segredos do Chrome DevTools - Ep. 4: Console (Portuguese)](https://www.youtube.com/watch?v=eSPMRDcq9Co)
+	- [Segredos do Chrome DevTools - Ep. 5: Debug (Portuguese)](https://www.youtube.com/watch?v=b_rvFrBwMRM)
+	- [Segredos do Chrome DevTools - Ep. 6: Resources (Portuguese)](https://www.youtube.com/watch?v=hXO7fa98Msg&index=6&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+	- [Segredos do Chrome DevTools - Ep. 7: Network (Portuguese)](https://www.youtube.com/watch?v=wsCCACcEtig&index=7&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+	- [Segredos do Chrome DevTools - Ep. 8: Audits (Portuguese)](https://www.youtube.com/watch?v=Z0zK6rjuvV4&index=8&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+	- [Segredos do Chrome DevTools - Ep. 9: Timeline (Portuguese)](https://www.youtube.com/watch?v=CSe0piKOZtw&index=9&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+	- [Segredos do Chrome DevTools - Ep. 10: Emulator (Portuguese)](https://www.youtube.com/watch?v=vqUHtM6dvW8&index=10&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+	
 **[⬆ back to top](#table-of-contents)**
 # Talks
 
