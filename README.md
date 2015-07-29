@@ -156,7 +156,8 @@
 	- [Segredos do Chrome DevTools - Ep. 8: Audits (Portuguese)](https://www.youtube.com/watch?v=Z0zK6rjuvV4&index=8&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
 	- [Segredos do Chrome DevTools - Ep. 9: Timeline (Portuguese)](https://www.youtube.com/watch?v=CSe0piKOZtw&index=9&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
 	- [Segredos do Chrome DevTools - Ep. 10: Emulator (Portuguese)](https://www.youtube.com/watch?v=vqUHtM6dvW8&index=10&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-	
+
+1.[Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)	
 **[⬆ back to top](#table-of-contents)**
 # Talks
 
