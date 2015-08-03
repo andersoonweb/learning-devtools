@@ -105,6 +105,7 @@
 1. [Developing With Sass and Chrome DevTools](https://code.tutsplus.com/tutorials/developing-with-sass-and-chrome-devtools--net-32805)
 1. [Chrome Dev Tools: JavaScript and Performance](https://code.tutsplus.com/tutorials/chrome-dev-tools-javascript-and-performance--net-29671)
 1. [ [PT-BR] Os Segredos do Chrome DevTools](http://tableless.com.br/os-segredos-chrome-devtools/)
+1. [DevTools Digest: Film strip and a new home for throttling](https://developers.google.com/web/updates/2015/07/23/devtools-digest-film-strip-and-a-new-home-for-throttling)
 
 **[⬆ back to top](#table-of-contents)**
 
