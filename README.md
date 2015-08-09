@@ -112,6 +112,7 @@
 1. [Chrome Dev Tools: JavaScript and Performance](https://code.tutsplus.com/tutorials/chrome-dev-tools-javascript-and-performance--net-29671)
 1. [ [PT-BR] Os Segredos do Chrome DevTools](http://tableless.com.br/os-segredos-chrome-devtools/)
 1. [DevTools Digest: Film strip and a new home for throttling](https://developers.google.com/web/updates/2015/07/23/devtools-digest-film-strip-and-a-new-home-for-throttling)
+1. [How to Copy Another Site’s CSS Using Chrome Developer Tools [VIDEO]](http://www.annielytics.com/blog/random/copy-another-sites-css-using-chrome-developer-tools/?utm_content=buffer2ae96&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 **[⬆ back to top](#table-of-contents)**
 
