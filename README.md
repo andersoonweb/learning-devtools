@@ -55,6 +55,9 @@
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)							
 1. [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
 1. [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+1. [7 Cool tricks with Chrome DevTools](http://abdulapopoola.com/2015/01/06/7-cool-tricks-with-chrome-devtools/)
+
+
 **[⬆ back to top](#table-of-contents)**
 
 # Articles & Tutorials
