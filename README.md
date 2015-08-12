@@ -2,6 +2,7 @@
 **List of resources to learning this amazing tools**
 
 [DevTools site](https://developer.chrome.com/devtools)
+[Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## Table of Contents
 * [Tutorials in Gifs](#tutorials-in-gifs)
