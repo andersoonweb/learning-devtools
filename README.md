@@ -160,7 +160,8 @@
 	- [Segredos do Chrome DevTools - Ep. 10: Emulator (Portuguese)](https://www.youtube.com/watch?v=vqUHtM6dvW8&index=10&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
 
 1. [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
-1. [Animation Timeline in Chrome DevTools - coming soon](https://www.youtube.com/watch?v=U9xfYbKxosI)	
+1. [Animation Timeline in Chrome DevTools - coming soon](https://www.youtube.com/watch?v=U9xfYbKxosI)
+1. [Less compiled + devtools](https://www.youtube.com/watch?v=6bcCpk_U3qc)	
 
 **[⬆ back to top](#table-of-contents)**
 # Talks
