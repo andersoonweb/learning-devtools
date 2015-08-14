@@ -53,7 +53,7 @@
 1. [DevTools Tip: View/edit resources from the Elements panel into the Sources Panel](https://umaar.com/dev-tips/40-open-in-sources-from-elements/)
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)							
 1. [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
-
+1. [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 **[⬆ back to top](#table-of-contents)**
 
 # Articles & Tutorials
