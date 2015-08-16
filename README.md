@@ -52,6 +52,7 @@
 1. [Node: Try out JavaScript ES6 locally](https://umaar.com/dev-tips/39-node-es6-transpile)
 1. [DevTools Tip: View/edit resources from the Elements panel into the Sources Panel](https://umaar.com/dev-tips/40-open-in-sources-from-elements/)
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)							
+1. [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
 
 **[⬆ back to top](#table-of-contents)**
 
