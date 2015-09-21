@@ -1,5 +1,5 @@
-[Chrome DevTools Overview](https://developer.chrome.com/devtools)
-[More details](https://developers.google.com/web/tools/chrome-devtools/)
+- [Chrome DevTools Overview](https://developer.chrome.com/devtools)
+- [More details](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## Table of Contents
 * [Tutorials in Gifs](#tutorials-in-gifs)
