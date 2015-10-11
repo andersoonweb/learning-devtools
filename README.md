@@ -183,7 +183,7 @@
 1. [Wait, Chrome DevTools can do THAT? (JQueryUK 2013)](https://www.youtube.com/watch?v=S9sktFzL3tQ)
 1. [Improving Your 2013 Productivity With The Chrome DevTools](https://www.youtube.com/watch?v=kVSo4buDAEE)
 1. [Optimizing network performance - Chrome Dev Summit 2013](https://www.youtube.com/watch?v=eJZ8SdU9zII)
-1. []()
+1. [DevTools for Mobile - Chrome Dev Summit 2013 (Paul Irish)](https://www.youtube.com/watch?v=gZH1d2Co1X0&feature=youtu.be)
 
 **[⬆ back to top](#table-of-contents)**
 
