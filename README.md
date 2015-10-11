@@ -184,6 +184,9 @@
 1. [Improving Your 2013 Productivity With The Chrome DevTools](https://www.youtube.com/watch?v=kVSo4buDAEE)
 1. [Optimizing network performance - Chrome Dev Summit 2013](https://www.youtube.com/watch?v=eJZ8SdU9zII)
 1. [DevTools for Mobile - Chrome Dev Summit 2013 (Paul Irish)](https://www.youtube.com/watch?v=gZH1d2Co1X0&feature=youtu.be)
+1. [What's new in Chrome DevTools? - FITC Web Unleashed 2015, Toronto (Addy Osmani)](https://www.youtube.com/watch?v=XpGa6IzmmQg)
+	- [[Slide] What's new in Chrome DevTools?](https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
+
 
 **[⬆ back to top](#table-of-contents)**
 
