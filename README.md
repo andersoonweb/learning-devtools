@@ -187,6 +187,7 @@
 	- [[Slide] DevTools for Mobile](https://docs.google.com/presentation/d/1nH54tvjC5mq4b_-6rdLON7aV-SLSvJUN1Rh_51jaC8M/present?slide=id.p)
 1. [What's new in Chrome DevTools? - FITC Web Unleashed 2015, Toronto (Addy Osmani)](https://www.youtube.com/watch?v=XpGa6IzmmQg)
 	- [[Slide] What's new in Chrome DevTools?](https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
+1. [O maravilhoso mundo do Devtools - GDG Devfeste NE, Recife (Yan Magalhães)](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
 
 
 **[⬆ back to top](#table-of-contents)**
