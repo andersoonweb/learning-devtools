@@ -187,7 +187,7 @@
 	- [[Slide] DevTools for Mobile](https://docs.google.com/presentation/d/1nH54tvjC5mq4b_-6rdLON7aV-SLSvJUN1Rh_51jaC8M/present?slide=id.p)
 1. [What's new in Chrome DevTools? - FITC Web Unleashed 2015, Toronto (Addy Osmani)](https://www.youtube.com/watch?v=XpGa6IzmmQg)
 	- [[Slide] What's new in Chrome DevTools?](https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
-1. [O maravilhoso mundo do Devtools - GDG Devfeste NE, Recife (Yan Magalhães)](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
+1. [O maravilhoso mundo do Devtools - GDG Devfest NE, Recife (Yan Magalhães)](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -204,6 +204,7 @@
 # Extension
 
 1. [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
+1. [PageSpeed Insights With Reports in Command Line](https://github.com/addyosmani/psi)
 1. [WebGL Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob)
 1. [Web Audio API Editor Extension for Google Chrome](https://github.com/spite/WebAudioExtension)
 1. [Yez - Chrome extension that acts as terminal and task runner](https://github.com/krasimir/yez)
