@@ -1,4 +1,6 @@
 ![DevTools Learning](http://i.imgur.com/PkkoN8y.png)
+ > A curated list of [devtools](https://developer.chrome.com/devtools)
+ 
 - [Chrome DevTools Overview](https://developer.chrome.com/devtools)
 - [More details](https://developers.google.com/web/tools/chrome-devtools/)
 
