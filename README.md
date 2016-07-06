@@ -8,9 +8,11 @@
 * [Tutorials in Gifs](#tutorials-in-gifs)
 * [Articles & Tutorials](#articles-tutorials)
 * [Screencast](#screencast)
+* [Series](#series)
 * [Talks](#talks)
 * [Courses](#courses)
 * [Extension](#extension)
+
 * [Who to follow](#who-to-follow)
 
 # Tutorials in Gifs
@@ -135,43 +137,19 @@
 1. [Viewing Painting Behavior w/ Chrome DevTools](https://www.youtube.com/watch?v=Ea41RdQ1oFQ)
 1. [15 tricks to master Chrome Developer Tools Console](https://www.youtube.com/watch?v=2zmUSoVMyRU)
 1. [Chrome DevTools for CSS - Better CSS Coding & CSS Debugging with Developer Tools](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
-1. [The Breakpoint](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [Chrome DevTools with Addy Osmani and Paul Lewis](https://www.youtube.com/watch?v=ktwJ-EDiZoU&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=8)
- - [Chrome DevTools with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=PPXeWjWp-8Y&index=7&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Sourcemap Spectacular with Paul Irish and Addy Osmani](https://www.youtube.com/watch?v=HijZNR6kc9A&index=6&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [The Tour De Timeline](https://www.youtube.com/watch?v=WpqZ0LjNU5A&index=5&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [DevTools Grab bag](https://www.youtube.com/watch?v=FdsummsTeLo&index=4&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [Accelerating Load Time, Run Time, and JS tooling](https://www.youtube.com/watch?v=E8qvkGTwiV0&index=3&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
- - [Profiling a mobile site with Chrome DevTools and Android](https://www.youtube.com/watch?v=dRwzmoDZtZM&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw&index=2)
- - [Memory Profiling with Chrome DevTools](https://www.youtube.com/watch?v=L3ugr9BJqIs&index=1&list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
-1. [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
- - [Debugging Promises with DevTools](https://www.youtube.com/watch?v=o9c3U5_8tGY&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
- - [DevTools Grab Bag of Tricks](https://www.youtube.com/watch?v=hJdqtBeAUNI)
- - [DevTools Eye Dropper Tool](https://www.youtube.com/watch?v=NUlztWHP9eE)
-1. [Using Chrome Developer Tools](https://www.youtube.com/playlist?list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
-	- [Using Chrome Developer Tools: Elements (1/6)](https://www.youtube.com/watch?v=nV9PLPFTnkE)
-	- [Using Chrome Developer Tools: Network (2/6)](https://www.youtube.com/watch?v=PwoT18tp6Hs)
-	- [Using Chrome Developer Tools: Resources (3/6)](https://www.youtube.com/watch?v=elnTdCGjmSI)
-	- [Using Chrome Developer Tools: Console (4/6)](https://www.youtube.com/watch?v=G74ll-6L4_o)
-	- [Using Chrome Developer Tools: Device Emulation (5/6)](https://www.youtube.com/watch?v=P_HUmV4pN-0)
-	- [Using Chrome Developer Tools: Auditing (6/6)](https://www.youtube.com/watch?v=A1ER52qpvp8)
-1. [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-	- [Segredos do Chrome DevTools - Ep. 1: Elements (Portuguese)](https://www.youtube.com/watch?v=XUgfwYzv-WQ)
-	- [Segredos do Chrome DevTools - Ep. 2: Style (Portuguese)](https://www.youtube.com/watch?v=Lzbed3jiU5E)
-	- [Segredos do Chrome DevTools - Ep. 3: Workspaces (Portuguese)](https://www.youtube.com/watch?v=zpEs6fLnwO0)
-	- [Segredos do Chrome DevTools - Ep. 4: Console (Portuguese)](https://www.youtube.com/watch?v=eSPMRDcq9Co)
-	- [Segredos do Chrome DevTools - Ep. 5: Debug (Portuguese)](https://www.youtube.com/watch?v=b_rvFrBwMRM)
-	- [Segredos do Chrome DevTools - Ep. 6: Resources (Portuguese)](https://www.youtube.com/watch?v=hXO7fa98Msg&index=6&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-	- [Segredos do Chrome DevTools - Ep. 7: Network (Portuguese)](https://www.youtube.com/watch?v=wsCCACcEtig&index=7&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-	- [Segredos do Chrome DevTools - Ep. 8: Audits (Portuguese)](https://www.youtube.com/watch?v=Z0zK6rjuvV4&index=8&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-	- [Segredos do Chrome DevTools - Ep. 9: Timeline (Portuguese)](https://www.youtube.com/watch?v=CSe0piKOZtw&index=9&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-	- [Segredos do Chrome DevTools - Ep. 10: Emulator (Portuguese)](https://www.youtube.com/watch?v=vqUHtM6dvW8&index=10&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
-
 1. [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
 1. [Animation Timeline in Chrome DevTools - coming soon](https://www.youtube.com/watch?v=U9xfYbKxosI)
 1. [Less compiled + devtools](https://www.youtube.com/watch?v=6bcCpk_U3qc)	
 
 **[⬆ back to top](#table-of-contents)**
+
+# Series
+
+1. [The Breakpoint](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
+1. [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+1. [Using Chrome Developer Tools](https://www.youtube.com/playlist?list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
+1. [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+
 # Talks
 
 1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=4CZveCrrGS0)
