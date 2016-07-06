@@ -12,7 +12,6 @@
 * [Talks](#talks)
 * [Courses](#courses)
 * [Extension](#extension)
-
 * [Who to follow](#who-to-follow)
 
 # Tutorials in Gifs
