@@ -1,4 +1,6 @@
-![DevTools Learning](http://i.imgur.com/PkkoN8y.png)
+<p align="center">
+ <img src="http://i.imgur.com/zxqE8WC.png">
+</p>
  > A curated list of [devtools](https://developer.chrome.com/devtools)
  
 - [Chrome DevTools Overview](https://developer.chrome.com/devtools)
