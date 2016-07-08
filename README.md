@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [Articles & Tutorials](#articles-tutorials)
-* [Screencast](#screencast)
+* [Videos](#videos)
 * [Series](#series)
 * [Talks](#talks)
 * [Sliders](#sliders)
@@ -74,7 +74,7 @@
 1. [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
 1. [Optimize Performance Under Varying Network Conditions](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions)
 
-## Screencast
+## Videos
 
 1. [Frame Viewer in Chrome DevTools Timeline](https://www.youtube.com/watch?v=sC6IlD-U2TI)
 1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=vcjcykN6smw)
