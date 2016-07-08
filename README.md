@@ -11,6 +11,7 @@
 * [Talks](#talks)
 * [Sliders](#sliders)
 * [Courses](#courses)
+* [Themes](#themes)
 * [Extension](#extension)
 * [Who to follow](#who-to-follow)
 
@@ -131,6 +132,9 @@
 1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 1. [Mastering the Google Chrome Developer Tools](https://www.udemy.com/mastering-chrome-developer-tools/?couponCode=DISCOUNT)
 1. [Chrome Developer Tools](http://code.tutsplus.com/courses/chrome-developer-tools)
+
+## Themes
+1. [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi?hl=en-US)
 
 ## Extension
 
