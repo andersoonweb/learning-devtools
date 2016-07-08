@@ -5,7 +5,6 @@
 - [More details](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## Table of Contents
-* [Tutorials in Gifs](#tutorials-in-gifs)
 * [Articles & Tutorials](#articles-tutorials)
 * [Screencast](#screencast)
 * [Series](#series)
@@ -14,62 +13,14 @@
 * [Extension](#extension)
 * [Who to follow](#who-to-follow)
 
-# Tutorials in Gifs
-
-1. [DevTools port forwarding allows localhost URLs to work on mobile](https://umaar.com/dev-tips/1-port-forward/)
-1. [DevTools Triggering of pseudo classes](https://umaar.com/dev-tips/2-pseudo-trigger)
-1. [DevTools - replay a network request in cURL](https://umaar.com/dev-tips/3-copy-as-curl/)
-1. [DevTools - Run predefined snippets of code on any web page](https://umaar.com/dev-tips/4-snippets/)
-1. [DevTools - Local Modifications](https://umaar.com/dev-tips/5-local-mods/)
-1. [DevTools - Easy timeline recording](https://umaar.com/dev-tips/6-record-timeline-undocked/)
-1. [DevTools - DOM tree search by CSS selector](https://umaar.com/dev-tips/7-dom-search-by-selector/)
-1. [DevTools - Copy image as data URI](https://umaar.com/dev-tips/8-copy-as-data-uri/)
-1. [DevTools - Go to a line number at a specific column](https://umaar.com/dev-tips/9-go-to-column/)
-1. [DevTools - Cycle through editing locations](https://umaar.com/dev-tips/10-editing-locations/)
-1. [DevTools - Copy the response of a network resource to your clipboard](https://umaar.com/dev-tips/11-copy-response/)
-1. [DevTools - Command click to add multiple cursors in the Sources Panel](https://umaar.com/dev-tips/12-multiple-cursors/)
-1. [DevTools Perform a column selection by by dragging](https://umaar.com/dev-tips/13-drag-select/)
-1. [DevTools Quickly monitor events from the Console Panel](https://umaar.com/dev-tips/14-monitor-events/)
-1. [Console shortcut to get the currently selected DOM node](https://umaar.com/dev-tips/15-dollar-zero/)
-1. [See unfinished network requests with the is:running network filter](https://umaar.com/dev-tips/16-is-running/)
-1. [Quick-edit the HTML Element tag](https://umaar.com/dev-tips/17-quick-edit-element/)
-1. [Alt + Click to expand all child nodes](https://umaar.com/dev-tips/18-alt-click-expand-node/)
-1. [Toggle the DevTools dock state with a keyboard shortcut](https://umaar.com/dev-tips/19-dock-undock-shortcut/)
-1. [Reveal DOM nodes in the Elements panel from the Console](https://umaar.com/dev-tips/20-reveal-in-elements/)
-1. [See the exact statement which executed with granular highlighting](https://umaar.com/dev-tips/21-highlight-paused-statement/)
-1. [Some UI and feature enhancements to the Colour Picker tool](https://umaar.com/dev-tips/22-colour-picker-upgrade/)
-1. [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
-1. [Set a breakpoint and navigate through the call stack with keyboard shortcuts](https://umaar.com/dev-tips/23-debugger-shortcuts/)
-1. [Select an easing to get a visual animated preview for how it behaves](https://umaar.com/dev-tips/27-easing-preview/)
-1. [5 tricks to use in the Console Panel](https://umaar.com/dev-tips/29-five-console-tricks/)
-1. [DevTools Tip: View and change your DOM breakpoints with the breakpoints pane](https://umaar.com/dev-tips/28-dom-breakpoint-pane/)
-1. [DevTools Tip: Get and debug event listeners with Console commands ](https://umaar.com/dev-tips/31-get-debug-event-listeners/)
-1. [DevTools Tip: Automatically pause on uncaught exceptions ](https://umaar.com/dev-tips/32-pause-on-exception/)
-1. [DevTools Tip: Expand shorthand properties](https://umaar.com/dev-tips/33-expand-shorthand-properties)
-1. [DevTools Tip: See matching selectors](https://umaar.com/dev-tips/34-selector-matching/)
-1. [DevTools Tip: The new Network Filmstrip and timeline](https://umaar.com/dev-tips/35-network-filmstrip/)
-1. [Sublime Text: Fuzzy search](https://umaar.com/dev-tips/36-sublime-fuzzy-search/)
-1. [DevTools Tip: Quickly change CSS values (keyboard or mousewheel)](https://umaar.com/dev-tips/37-quick-change-css-values/)
-1. [DevTools Tip: Scroll elements into the viewport](https://umaar.com/dev-tips/38-scroll-into-view/)
-1. [Node: Try out JavaScript ES6 locally](https://umaar.com/dev-tips/39-node-es6-transpile)
-1. [DevTools Tip: View/edit resources from the Elements panel into the Sources Panel](https://umaar.com/dev-tips/40-open-in-sources-from-elements/)
-1. [A collection of tutorials in Gif](http://devtoolstips.com/)							
-1. [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
-1. [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
-1. [7 Cool tricks with Chrome DevTools](http://abdulapopoola.com/2015/01/06/7-cool-tricks-with-chrome-devtools/)
-1. [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
-
-
-**[⬆ back to top](#table-of-contents)**
-
-# Articles & Tutorials
+## Articles & Tutorials
 
 1. [Introducing Chrome DevTools for Mobile](http://www.sitepoint.com/introducing-chrome-devtools-mobile/)
 1. [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/secret/mobile-using-developer-tools-on-android.html)
 1. [Responsive Web Design with DevTools' Device Mode](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
 1. [Chrome DevTools upcoming features](https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5)
-1. [Chrome 41 Beta: New ES6 Features and Improved DevTools for Service Workers and Web Animations](http://blog.chromium.org/2015/01/chrome-41-beta-new-es6-features-and.html)
-1. [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements)
+1. [New ES6 Features and Improved DevTools for Service Workers and Web Animations](http://blog.chromium.org/2015/01/chrome-41-beta-new-es6-features-and.html)
+1. [Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements)
 1. [DevTools answers: What font is that?](http://updates.html5rocks.com/2013/09/DevTools-answers-What-font-is-that)
 1. [Using Chrome DevTools to Debug JavaScript in Any Browser with Ghostlab 2](https://css-tricks.com/using-chrome-devtools-to-debug-javascript-in-any-browser-with-ghostlab-2/)
 1. [Using Your Terminal From The DevTools](http://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/)
@@ -100,7 +51,7 @@
 1. [Profiling JavaScript Performance](https://developer.chrome.com/devtools/docs/cpu-profiling)
 1. [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
 1. [Remote debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
-1. [Settings](https://developer.chrome.com/devtools/docs/settings)
+1. [To modify the Settings in DevTools](https://developer.chrome.com/devtools/docs/settings)
 1. [Keyboard Shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
 1. [Extending DevTools](https://developer.chrome.com/extensions/devtools)
 1. [Integrating with DevTools](https://developer.chrome.com/devtools/docs/integrating)
@@ -116,10 +67,13 @@
 1. [How to Copy Another Site’s CSS Using Chrome Developer Tools [VIDEO]](http://www.annielytics.com/blog/random/copy-another-sites-css-using-chrome-developer-tools/?utm_content=buffer2ae96&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 1. [DevTools Tips For Sublime Text Users](https://medium.com/google-developers/devtools-tips-for-sublime-text-users-cdd559ee80f8)
 1. [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+1. [A collection of tutorials in Gif](http://devtoolstips.com/)							
+1. [Blackbox JavaScript Source Files](https://developer.chrome.com/devtools/docs/blackboxing)
+1. [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+1. [7 Cool tricks with Chrome DevTools](http://abdulapopoola.com/2015/01/06/7-cool-tricks-with-chrome-devtools/)
+1. [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
 
-**[⬆ back to top](#table-of-contents)**
-
-# Screencast
+## Screencast
 
 1. [Frame Viewer in Chrome DevTools Timeline](https://www.youtube.com/watch?v=sC6IlD-U2TI)
 1. [Paint Profiler in Chrome DevTools Timeline](https://www.youtube.com/watch?v=vcjcykN6smw)
@@ -140,47 +94,35 @@
 1. [Animation Timeline in Chrome DevTools - coming soon](https://www.youtube.com/watch?v=U9xfYbKxosI)
 1. [Less compiled + devtools](https://www.youtube.com/watch?v=6bcCpk_U3qc)	
 
-**[⬆ back to top](#table-of-contents)**
-
-# Series
+## Series
 
 1. [The Breakpoint](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBQ8j3J_PyM8JLAGKqZRByw)
 1. [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 1. [Using Chrome Developer Tools](https://www.youtube.com/playlist?list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya)
-1. [Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+1. [ **[PT-BR]** Segredos do Chrome DevTools](https://www.youtube.com/playlist?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
 
-# Talks
+## Talks
 
-1. [Advanced performance tooling in Chrome DevTools - Paul Irish @ Velocity 2014](https://www.youtube.com/watch?v=4CZveCrrGS0)
+1. [Advanced performance tooling in Chrome DevTools](https://www.youtube.com/watch?v=4CZveCrrGS0)
 1. [Chrome Developer Tools for Speed](https://www.youtube.com/watch?v=MllBwuHbWMY)
-1. [Google I/O 2013 - Chrome DevTools Revolutions 2013](https://www.youtube.com/watch?v=x6qe_kVaBpg)
-1. [Advanced Debugging Techniques with Chrome - @Scale 2014 - Web](https://www.youtube.com/watch?v=B63jNjSVEbQ)
-1. [Wait, Chrome Dev Tools could do THAT](https://www.youtube.com/watch?v=BaneWEqNcpE)
+1. [Google I/O 2013 - Chrome DevTools](https://www.youtube.com/watch?v=x6qe_kVaBpg)
+1. [Advanced Debugging Techniques with Chrome](https://www.youtube.com/watch?v=B63jNjSVEbQ)
 1. [DevTools State of the Union](http://jqueryuk.com/2015/videos.php?s=devtools-state-of-the-union)
-	- [[Slide] DevTools: State Of The Union 2015](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015)
-1. [Wait, Chrome Dev Tools could do THAT?](https://www.youtube.com/watch?v=BaneWEqNcpE)
-1. [Wait, Chrome DevTools can do THAT? (JQueryUK 2013)](https://www.youtube.com/watch?v=S9sktFzL3tQ)
+1. [Wait, Chrome Dev Tools could do THAT](https://www.youtube.com/watch?v=BaneWEqNcpE)
 1. [Improving Your 2013 Productivity With The Chrome DevTools](https://www.youtube.com/watch?v=kVSo4buDAEE)
-1. [Optimizing network performance - Chrome Dev Summit 2013](https://www.youtube.com/watch?v=eJZ8SdU9zII)
-1. [DevTools for Mobile - Chrome Dev Summit 2013 (Paul Irish)](https://www.youtube.com/watch?v=gZH1d2Co1X0&feature=youtu.be)
-	- [[Slide] DevTools for Mobile](https://docs.google.com/presentation/d/1nH54tvjC5mq4b_-6rdLON7aV-SLSvJUN1Rh_51jaC8M/present?slide=id.p)
-1. [What's new in Chrome DevTools? - FITC Web Unleashed 2015, Toronto (Addy Osmani)](https://www.youtube.com/watch?v=XpGa6IzmmQg)
-	- [[Slide] What's new in Chrome DevTools?](https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
-1. [O maravilhoso mundo do Devtools - GDG Devfest NE, Recife (Yan Magalhães)](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
+1. [Optimizing network performance](https://www.youtube.com/watch?v=eJZ8SdU9zII)
+1. [DevTools for Mobile](https://www.youtube.com/watch?v=gZH1d2Co1X0&feature=youtu.be)
+1. [What's new in Chrome DevTools?](https://www.youtube.com/watch?v=XpGa6IzmmQg)
+1. [ **[PT-BR]** O maravilhoso mundo do Devtools](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
 
-
-**[⬆ back to top](#table-of-contents)**
-
-# Courses
+## Courses
 
 1. [Website Optimization](http://teamtreehouse.com/library/website-optimization)
 1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 1. [Mastering the Google Chrome Developer Tools](https://www.udemy.com/mastering-chrome-developer-tools/?couponCode=DISCOUNT)
 1. [Chrome Developer Tools](http://code.tutsplus.com/courses/chrome-developer-tools)
 
-**[⬆ back to top](#table-of-contents)**
-
-# Extension
+## Extension
 
 1. [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
 1. [PageSpeed Insights With Reports in Command Line](https://github.com/addyosmani/psi)
@@ -190,10 +132,7 @@
 1. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 1. [Grunt Devtools](https://chrome.google.com/webstore/detail/grunt-devtools/fbiodiodggnlakggeeckkjccjhhjndnb)
 
-**[⬆ back to top](#table-of-contents)**
-
-
-# Who to follow
+## Who to follow
 
 - [@Ilya Grigorik](https://twitter.com/igrigorik)
 - [@Addy Osmani](https://twitter.com/addyosmani)
@@ -202,6 +141,4 @@
 - [@Umar Hansa](https://twitter.com/umaar)
 - [@Chrome DevTools](https://twitter.com/ChromeDevTools)
 - [DevTools tips](https://twitter.com/devtoolstips)
-
-**[⬆ back to top](#table-of-contents)**
 
