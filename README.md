@@ -6,6 +6,7 @@
 
 ## Table of Contents
 * [Articles & Tutorials](#articles-tutorials)
+* [Collections](#collections)
 * [Videos](#videos)
 * [Series](#series)
 * [Talks](#talks)
@@ -50,6 +51,11 @@
 1. [7 Cool tricks with Chrome DevTools](http://abdulapopoola.com/2015/01/06/7-cool-tricks-with-chrome-devtools/)
 1. [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
 1. [Optimize Performance Under Varying Network Conditions](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions)							
+
+## Collections
+1. [A collection of tutorials in Gif](http://devtoolstips.com/)
+1. [Dev tools](https://developer.chrome.com/devtools)
+1. [Dev tips](https://umaar.com/dev-tips/)
 
 ## Videos
 
