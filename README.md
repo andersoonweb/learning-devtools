@@ -9,6 +9,7 @@
 * [Screencast](#screencast)
 * [Series](#series)
 * [Talks](#talks)
+* [Sliders](#sliders)
 * [Courses](#courses)
 * [Extension](#extension)
 * [Who to follow](#who-to-follow)
@@ -114,6 +115,15 @@
 1. [DevTools for Mobile](https://www.youtube.com/watch?v=gZH1d2Co1X0&feature=youtu.be)
 1. [What's new in Chrome DevTools?](https://www.youtube.com/watch?v=XpGa6IzmmQg)
 1. [ **[PT-BR]** O maravilhoso mundo do Devtools](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
+
+
+## Sliders
+
+1. [State Of The Union 2015](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015)
+1. [Chrome DevTools Deep-dive](https://speakerdeck.com/addyosmani/chrome-devtools-deep-dive)
+1. [What's new in Chrome DevTools?](https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools)
+1. [VelocityConf: Rendering Performance Case Studies](https://speakerdeck.com/addyosmani/velocityconf-rendering-performance-case-studies)
+1. [DevTools for Mobile](https://docs.google.com/presentation/d/1nH54tvjC5mq4b_-6rdLON7aV-SLSvJUN1Rh_51jaC8M/present#slide=id.p)
 
 ## Courses
 
