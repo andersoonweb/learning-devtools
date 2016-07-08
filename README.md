@@ -74,7 +74,8 @@
 1. [Chrome DevTools for CSS - Better CSS Coding & CSS Debugging with Developer Tools](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 1. [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
 1. [Animation Timeline in Chrome DevTools - coming soon](https://www.youtube.com/watch?v=U9xfYbKxosI)
-1. [Less compiled + devtools](https://www.youtube.com/watch?v=6bcCpk_U3qc)	
+1. [Less compiled + devtools](https://www.youtube.com/watch?v=6bcCpk_U3qc)
+1. [How to Copy Cool Formatting from Someone Else's Site](https://www.youtube.com/watch?v=og7j4JWkIIU)	
 
 ## Series
 
