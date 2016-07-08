@@ -139,10 +139,10 @@
 
 ## Extension
 
-1. [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
+1. [PageSpeed Insights](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
 1. [PageSpeed Insights With Reports in Command Line](https://github.com/addyosmani/psi)
 1. [WebGL Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob)
-1. [Web Audio API Editor Extension for Google Chrome](https://github.com/spite/WebAudioExtension)
+1. [Web Audio API Editor Extension](https://github.com/spite/WebAudioExtension)
 1. [Yez - Chrome extension that acts as terminal and task runner](https://github.com/krasimir/yez)
 1. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 1. [Grunt Devtools](https://chrome.google.com/webstore/detail/grunt-devtools/fbiodiodggnlakggeeckkjccjhhjndnb)
