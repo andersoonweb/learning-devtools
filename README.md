@@ -1,8 +1,6 @@
 ![DevTools Learning](http://i.imgur.com/PkkoN8y.png)
- > A curated list of [devtools](https://developer.chrome.com/devtools)
  
-- [Chrome DevTools Overview](https://developer.chrome.com/devtools)
-- [More details](https://developers.google.com/web/tools/chrome-devtools/)
+ > List of resources to learn [devtools](https://developer.chrome.com/devtools).
 
 ## Table of Contents
 * [Articles & Tutorials](#articles-tutorials)
@@ -149,11 +147,13 @@
 
 ## Who to follow
 
-- [@Ilya Grigorik](https://twitter.com/igrigorik)
-- [@Addy Osmani](https://twitter.com/addyosmani)
-- [@Paul Irish](https://twitter.com/paul_irish)
-- [@Paul Bakaus](https://twitter.com/pbakaus)
-- [@Umar Hansa](https://twitter.com/umaar)
-- [@Chrome DevTools](https://twitter.com/ChromeDevTools)
-- [DevTools tips](https://twitter.com/devtoolstips)
+* [Ilya Grigorik](https://twitter.com/igrigorik)
+* [Addy Osmani](https://twitter.com/addyosmani)
+* [Paul Irish](https://twitter.com/paul_irish)
+* [Paul Bakaus](https://twitter.com/pbakaus)
+* [Umar Hansa](https://twitter.com/umaar)
+* [Chrome DevTools](https://twitter.com/ChromeDevTools)
+* [DevTools tips](https://twitter.com/devtoolstips)
+
+
 
