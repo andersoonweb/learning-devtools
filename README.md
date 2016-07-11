@@ -81,7 +81,9 @@
 1. [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs)
 1. [Animation Timeline in Chrome DevTools - coming soon](https://www.youtube.com/watch?v=U9xfYbKxosI)
 1. [Less compiled + devtools](https://www.youtube.com/watch?v=6bcCpk_U3qc)
-1. [How to Copy Cool Formatting from Someone Else's Site](https://www.youtube.com/watch?v=og7j4JWkIIU)	
+1. [How to Copy Cool Formatting from Someone Else's Site](https://www.youtube.com/watch?v=og7j4JWkIIU)
+1. [Awesome DevTools Customization With DevTools Author](https://www.youtube.com/watch?v=AUZagMLMAJc)
+1. [Advanced Debugging with Chrome Dev Tools - Wayne Elgin](https://www.youtube.com/watch?v=5Sk5dRX9fxY)	
 
 ## Series
 
@@ -105,6 +107,7 @@
 1. [ **[PT-BR]** O maravilhoso mundo do Devtools](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
 1. [Web Performance Tooling](https://www.youtube.com/watch?v=iMqi55rcR00)
 1. [Accelerate your workflow](https://www.youtube.com/watch?v=x8u0n4dT-WI)
+1. [What’s New in Chrome DevTools](https://www.youtube.com/watch?v=XpGa6IzmmQg)
 
 
 ## Sliders
