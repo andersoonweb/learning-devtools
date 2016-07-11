@@ -155,5 +155,8 @@
 * [Chrome DevTools](https://twitter.com/ChromeDevTools)
 * [DevTools tips](https://twitter.com/devtoolstips)
 
+## License
 
+[![License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
+To the extent possible under law, [Anderson Menezes](http://github.com/andersoonweb) has waived all copyright and related or neighboring rights to this work.
