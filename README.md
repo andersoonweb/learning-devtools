@@ -56,7 +56,7 @@
 1. [Introducing Chrome Debugging for VS Code](http://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code)
 1. [Introducing the Security Panel in DevTools](http://blog.chromium.org/2016/01/introducing-security-panel-in-devtools.html)
 1. [Cmd/Ctrl+Shift+P to bring up the Command Menu](https://developers.google.com/web/updates/2016/04/devtools-digest-command-menu?hl=en)
-1. [A new Device Mode for a mobile-first generation]()
+1. [Optimize Performance Under Varying Network Conditions](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions)
 
 ## Collections
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)
