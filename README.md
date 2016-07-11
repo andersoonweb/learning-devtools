@@ -50,7 +50,8 @@
 1. [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 1. [7 Cool tricks with Chrome DevTools](http://abdulapopoola.com/2015/01/06/7-cool-tricks-with-chrome-devtools/)
 1. [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
-1. [Optimize Performance Under Varying Network Conditions](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions)							
+1. [Optimize Performance Under Varying Network Conditions](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions)
+1. [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)							
 
 ## Collections
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)
