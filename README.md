@@ -52,6 +52,8 @@
 1. [New React Devtools Beta](http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html)
 1. [Optimize Performance Under Varying Network Conditions](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/network-conditions)
 1. [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)							
+1. [Introducing Chrome Debugging for VS Code](http://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code)
+1. [Introducing the Security Panel in DevTools](http://blog.chromium.org/2016/01/introducing-security-panel-in-devtools.html)
 
 ## Collections
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)
@@ -98,6 +100,8 @@
 1. [DevTools for Mobile](https://www.youtube.com/watch?v=gZH1d2Co1X0&feature=youtu.be)
 1. [What's new in Chrome DevTools?](https://www.youtube.com/watch?v=XpGa6IzmmQg)
 1. [ **[PT-BR]** O maravilhoso mundo do Devtools](http://slides.com/yanmagale/o-maravilhoso-mundo-do-devtools/)
+1. [Web Performance Tooling](https://www.youtube.com/watch?v=iMqi55rcR00)
+1. [Accelerate your workflow](https://www.youtube.com/watch?v=x8u0n4dT-WI)
 
 
 ## Sliders
