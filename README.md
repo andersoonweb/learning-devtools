@@ -12,6 +12,7 @@
 * [Talks](#talks)
 * [Sliders](#sliders)
 * [Courses](#courses)
+* [Tips](#tips)
 * [Themes](#themes)
 * [Extension](#extension)
 * [Who to follow](#who-to-follow)
@@ -54,6 +55,8 @@
 1. [Debugging JavaScript with Chrome DevTools Breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)							
 1. [Introducing Chrome Debugging for VS Code](http://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code)
 1. [Introducing the Security Panel in DevTools](http://blog.chromium.org/2016/01/introducing-security-panel-in-devtools.html)
+1. [Cmd/Ctrl+Shift+P to bring up the Command Menu](https://developers.google.com/web/updates/2016/04/devtools-digest-command-menu?hl=en)
+1. [A new Device Mode for a mobile-first generation]()
 
 ## Collections
 1. [A collection of tutorials in Gif](http://devtoolstips.com/)
@@ -118,6 +121,13 @@
 1. [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
 1. [Mastering the Google Chrome Developer Tools](https://www.udemy.com/mastering-chrome-developer-tools/?couponCode=DISCOUNT)
 1. [Chrome Developer Tools](http://code.tutsplus.com/courses/chrome-developer-tools)
+
+## Tips
+
+1. [A new Device Mode for a mobile-first generation](https://developers.google.com/web/updates/2016/03/device-mode-v2)
+1. [Efficient element edits, service worker debugging, and Material Design shades](https://developers.google.com/web/updates/2015/10/devtools-digest-efficient-element-edits)
+1. [Cmd/Ctrl+Shift+P to bring up the Command Menu](https://developers.google.com/web/updates/2016/04/devtools-digest-command-menu?hl=en)
+1. [Supercharged Remote Debugging, Class Toggles and Our Own Late Night Show?!](https://developers.google.com/web/updates/2016/02/devtools-digest-supercharged-remote-debugging)
 
 ## Themes
 1. [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi?hl=en-US)
